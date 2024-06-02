@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @MuizKamarozaman
-- 👀 I’m interested in to have superpower that i can fly high and low
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MuizKamarozaman/MuizKamarozaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in developing innovative software solutions and exploring new technologies. I also have a fun dream of having a superpower that allows me to fly high and low!
+- 🌱 I’m currently learning Flutter and Firebase to build powerful mobile applications.
+- 💞️ I’m looking to collaborate on open-source projects related to mobile app development and cloud services.
+- 📫 How to reach me: 
+  - Email: muizkamarozaman@gmail.com
+  - LinkedIn: [Muhammad Muizzuddin](https://www.linkedin.com/in/muhammad-muizzuddin-62559a262/)
+  - Instagram: [@muiz_kmz](https://www.instagram.com/muizkmz/)
